@@ -1,3 +1,11 @@
+> **⚠️ This repository is legacy and no longer actively maintained.**
+>
+> The Java client has been rewritten as [`atmosphere-wasync`](https://github.com/Atmosphere/atmosphere/tree/main/modules/wasync), powered by `java.net.http` with the same fluent API.
+>
+> **→ [github.com/Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere)**
+
+---
+
 ## wAsync: A WebSockets/HTTP Client Library for Asynchronous Communication
 
 wAsync is a Java based library allowing asynchronous communication with any WebServer supporting the WebSocket or Http Protocol.
